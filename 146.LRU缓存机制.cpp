@@ -1,4 +1,4 @@
-.cstruct DLinkedNode {
+struct DLinkedNode {
     int key, value;
     DLinkedNode* prev;
     DLinkedNode* next;
